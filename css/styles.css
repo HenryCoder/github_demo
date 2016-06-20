@@ -1,0 +1,18 @@
+body{
+	background-color: salmon;
+
+}
+
+h1 {
+	color: white;
+}
+
+div.shape{
+	background-color: salmon;
+	width: 1500x;
+	height: 100px;
+	
+}
+div#circle{
+	border-radius: 100%;
+}
